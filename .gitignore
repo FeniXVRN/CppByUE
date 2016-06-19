@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+*.log
+*.tlog
+*.opendb
+
+*\debug
